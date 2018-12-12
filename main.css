@@ -1,0 +1,52 @@
+html{
+	min-width: 100%;
+	min-height: 100%;
+}
+body{
+	background-color: white;
+	background-image: url("img/mainbg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100%;
+	margin:0px;
+}
+/*.bg{
+	size: 100%;
+}*/
+
+h1{
+
+	color:white;
+	text-align: center;
+	font-weight: 500;
+	display: block;
+	margin: center;
+	font-size: 200px;
+
+}
+
+svg{
+	color:white;
+	stroke-width:3px;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+.navbar{
+	font-weight: 400;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	align-items: center;
+	margin-left: 2%;
+    margin-right: 2%;
+
+}
+
+
+.menu{
+	margin-left: 2%;
+	
+}
